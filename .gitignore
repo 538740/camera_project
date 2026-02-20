@@ -1,0 +1,18 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 图像文件（太大，不适合git）
+*.bmp
+*.jpg
+*.png
+images/
+
+# 编辑器临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 日志文件
+*.log
