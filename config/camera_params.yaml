@@ -1,6 +1,6 @@
 # 相机参数配置
 camera:
-  exposure_time: 10000  # 微秒
+  exposure_time: 15000  # 微秒
   gain: 1.5             # 增益
   resolution: 
     width: 1920
