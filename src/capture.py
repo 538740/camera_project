@@ -10,7 +10,7 @@ class Camera:
     def __init__(self, config_file):
         print(f"加载配置文件: {config_file}")
         self.exposure = 10000
-        self.gain = 1.5
+        self.gain = 2
         
     def capture_image(self):
         """模拟采集一张图像"""
